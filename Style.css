@@ -1,0 +1,77 @@
+
+.header
+{
+font-size: 30pt;
+font-family:Times New Roman;
+color:#00008B;
+text-align:center;
+}
+
+#startlink
+{
+width:100px; 
+height:100px;
+float:left;
+margin-top:none;
+padding:none;
+}
+
+body
+{
+background-color:#EEE685;
+padding:0;
+margin:0;
+}
+
+p
+{
+text-indent: 20px; /* Отступ первой строки в пикселах */
+}
+
+.general
+{
+width:100%;
+clear:both
+}
+
+.list
+{
+width:23%;
+float:left;
+text-align:left;
+font-size:17pt;
+font-family:Times New Roman;
+background-color:#CDC673;
+
+}
+
+a
+{
+color:#CD5B45;
+visited:#CD5B45;
+}
+
+
+
+.maintext
+{
+width:77%;
+float:left;
+text-align:left;
+font-size:16pt;
+font-family:Times New Roman;
+background-color:#FFF68F;
+margin-top:none;
+
+}
+
+table
+{
+width:95%;
+border-color:#CDC673;
+border:3px solid #CDC673;;
+padding:1px;
+text-align:center;
+font-size:16pt;
+font-family:Times New Roman;
+}
