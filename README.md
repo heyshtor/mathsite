@@ -1,2 +1,2 @@
 # mathsite
-Mom's math website
+Mum's Math website
